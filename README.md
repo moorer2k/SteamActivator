@@ -2,7 +2,7 @@
 Automated steam key activation created/tested only on Windows 7.
 
 # How to use:
-You must have steam open, once it's open, you 
+You must have steam open, once it's open, you load your list of keys and press the On button! Sit back and wait!
 
 # Screenshots
 
