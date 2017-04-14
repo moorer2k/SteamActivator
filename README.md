@@ -1,7 +1,7 @@
 # SteamActivator
 Automated steam key activation created/tested only on Windows 7.
 
-NOTE: Currently hardcoded to use the file C:\jan18keys.txt. So create that file, I'll change this later... Just lazy :) 
+## NOTE: Currently hardcoded to use the file C:\jan18keys.txt. So create that file, I'll change this later... Just lazy :) 
 # Download
 Checkout the release tab!
 
